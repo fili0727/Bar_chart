@@ -43,3 +43,5 @@ console.log(bogstaver);
 //Unshift tilføjer et nyt element i starten af arrayet
 bogstaver.unshift("å");
 console.log(bogstaver);
+
+
